@@ -1,0 +1,18 @@
+{
+    "users": [
+        {
+            "id": 111,
+            "firstName": "Surendra",
+            "lastName": "Mallireddy",
+            "dateOfBirth": "1991-08-01T00:00:00Z",
+            "location": "15.31728,75.71389"
+        },
+        {
+            "id": 112,
+            "firstName": "Sharan Meti",
+            "lastName": "Kariya",
+            "dateOfBirth": "1989-08-01T00:00:00Z",
+            "location": "15.31728,75.71389"
+        }
+    ]
+}
